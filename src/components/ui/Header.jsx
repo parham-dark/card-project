@@ -7,6 +7,7 @@ import {
   Typography,
 } from "@mui/material";
 import { styled } from "@mui/material/styles";
+
 import logo from "../../assets/logo.svg";
 
 const Header = () => {
